@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1794374588 source:d:\tugassss\alpro !\uts\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+
